@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.BRw2fNsA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"prev":false,"next":false},"headers":[],"relativePath":"tools/git/index.md","filePath":"tools/git/index.md"}'),a={name:"tools/git/index.md"};function s(n,r,i,c,d,l){return o(),t("div")}const f=e(a,[["render",s]]);export{_ as __pageData,f as default};

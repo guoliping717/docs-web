@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BRw2fNsA.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"back-end/nodejs/基础/基础.md","filePath":"back-end/nodejs/基础/基础.md"}'),n={name:"back-end/nodejs/基础/基础.md"};function o(s,c,r,d,_,p){return a(),t("div")}const f=e(n,[["render",o]]);export{m as __pageData,f as default};

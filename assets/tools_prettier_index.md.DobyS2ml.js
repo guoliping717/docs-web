@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BRw2fNsA.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/prettier/index.md","filePath":"tools/prettier/index.md"}'),o={name:"tools/prettier/index.md"};function a(n,s,i,c,d,p){return r(),t("div")}const m=e(o,[["render",a]]);export{l as __pageData,m as default};
